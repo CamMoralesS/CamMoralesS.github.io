@@ -23,6 +23,7 @@
     "typescript": "^5.9.3"
   },
   "devDependencies": {
+    "@astrojs/mdx": "^4.3.13",
     "@evilmartians/lefthook": "^2.0.12",
     "@typescript-eslint/eslint-plugin": "^8.50.0",
     "@typescript-eslint/parser": "^8.50.0",
