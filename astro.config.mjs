@@ -34,6 +34,9 @@ export default defineConfig({
       },
     }),
   ],
+  build: {
+    inlineStylesheets: 'always',
+  },
 
   markdown: {
     shikiConfig: {
