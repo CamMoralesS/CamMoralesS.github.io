@@ -43,7 +43,7 @@ const appearances = (await getCollection('appearances'))
             return parseMarkdown(markdown.replace('{author}', SITE.author));
           } catch (e) {
             console.error(e);
-            return `<h1>I'm ${SITE.author}, developer and designer.</h1><p>${SITE.homeHeroDescription}</p>`;
+            return `<h1> Hola soy ${SITE.author} </h1><p>${SITE.homeHeroDescription}</p>`;
           }
         })()}
       />
