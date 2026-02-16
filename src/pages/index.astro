@@ -42,6 +42,7 @@ const appearances = (await getCollection('appearances'))
             const markdown = readFileSync(fullPath, 'utf-8');
             return parseMarkdown(markdown.replace('{author}', SITE.author));
           } catch (e) {
+            console.error(e);
             return `<h1>I'm ${SITE.author}, developer and designer.</h1><p>${SITE.homeHeroDescription}</p>`;
           }
         })()}
