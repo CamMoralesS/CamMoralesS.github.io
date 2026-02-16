@@ -31,7 +31,7 @@ export interface SiteConfig {
   // Homepage Hero block
   hero: {
     enabled: boolean;
-    filePath: "site/hero.md";
+    filePath: string;
   };
 
   // Giscus comments configuration
