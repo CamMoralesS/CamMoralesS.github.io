@@ -1,6 +1,3 @@
-# I'm {author}, developer and designer.
+# Hola, soy {author}.
 
-Building premium web experiences with Astro, Svelte, and Tailwind.
-Focused on performance, aesthetics, and clean code.
-
-I am currently working on open-source tools and sharing my journey through writing.
+Estudiante de Ingenieria en Sistemas de la Universidad del Bosque.
