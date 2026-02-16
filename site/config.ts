@@ -51,13 +51,13 @@ export interface SiteConfig {
 }
 
 export const SITE: SiteConfig = {
-  author: 'Astronaut',
-  desc: 'Developer and designer building premium web experiences.',
-  title: 'Spaceship',
+  author: 'Camilo Morales',
+  desc: 'Mi portafolio',
+  title: 'CamMoralesS',
   ogImage: 'og.png',
   lang: 'en-US',
   base: '/',
-  website: 'https://spaceship-one.vercel.app',
+  website: 'https://CamMoralesS.github.io',
   social: {
     x: 'https://x.com/astronaut',
     github: 'https://github.com/astronaut',
