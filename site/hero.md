@@ -1,3 +1,6 @@
-Hola, soy {author}.
-
-Estudiante de Ingenieria en Sistemas de la Universidad del Bosque.
+---
+name: Camilo Morales
+role: Estudiante de Ingeniería en Sistemas
+description: |
+  Universidad del Bosque.
+---
