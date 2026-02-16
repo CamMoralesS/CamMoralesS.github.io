@@ -87,7 +87,7 @@ export const SITE: SiteConfig = {
   },
 
   hero: {
-    enabled: false,
+    enabled: true,
     filePath: 'site/hero.md',
   },
 
